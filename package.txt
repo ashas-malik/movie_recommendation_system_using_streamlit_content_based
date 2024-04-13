@@ -1,0 +1,20 @@
+{
+    "name": "movie_recommendation_system_using_streamlit_content_based",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+       "build": "echo \"No build specified\" && exit 1",
+       "test": "echo \"No test specified\" && exit 1",
+       "start": "node index.js"
+   },
+   "repository": {
+       "type": "git",
+        "url": "git+https://github.com/ashas-malik/movie_recommendation_system_using_streamlit_content_based.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+       "url": "https://github.com/ashas-malik/movie_recommendation_system_using_streamlit_content_based/issues"
+    },
+    "homepage": "https://github.com/ashas-malik/movie_recommendation_system_using_streamlit_content_based#readme"
+}
